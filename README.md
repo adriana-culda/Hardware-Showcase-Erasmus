@@ -1,4 +1,4 @@
-# 🖥️ Ghid Componente PC - Primul Proiect Web (2020)
+# 🖥️ Ghid Componente PC - Primul Proiect Web (2022)
 
 Acesta este **primul meu proiect web**, realizat în urmă cu 4 ani ca rezultat al cunoștințelor acumulate într-o mobilitate **Erasmus+**. Proiectul marchează începutul parcursului meu în tehnologie și pune bazele înțelegerii structurii hardware a unui calculator.
 
