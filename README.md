@@ -5,7 +5,7 @@ Acesta este **primul meu proiect web**, realizat în urmă cu 4 ani ca rezultat 
 ### ✨ Detalii Proiect
 * **Scop:** Pagina educativă despre componentele hardware principale.
 * **Context:** Realizat în cadrul unui program internațional de învățare (Erasmus).
-* **Tehnologii:** **HTML5** și **CSS3** (utilizate pentru prima dată).
+* **Tehnologii:** **HTML** și **CSS** (utilizate pentru prima dată).
 
 ### 🚀 De ce acest repository?
-Păstrez acest proiect pentru a documenta **evoluția mea** de la primele linii de cod HTML până la aplicațiile desktop complexe pe care le dezvolt în prezent.
+Păstrez acest proiect pentru a documenta **evoluția mea** de la primele linii de cod HTML până la aplicațiile desktop complexe.
