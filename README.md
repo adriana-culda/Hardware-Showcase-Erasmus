@@ -8,4 +8,4 @@ Acesta este **primul meu proiect web**, realizat în urmă cu 4 ani ca rezultat 
 * **Tehnologii:** **HTML** și **CSS** (utilizate pentru prima dată).
 
 ### 🚀 De ce acest repository?
-Păstrez acest proiect pentru a documenta **evoluția mea** de la primele linii de cod HTML până la aplicațiile desktop complexe.
+Păstrez acest proiect pentru a documenta **evoluția mea** de la primele linii de cod HTML până la aplicațiile desktop complexe pe care încep să le dezvolt.
